@@ -1,5 +1,4 @@
 ﻿# University-project_2term
-pokus
 
 výuka _Nástroje a možnosti internetu
 
